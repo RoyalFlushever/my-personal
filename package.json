@@ -1,0 +1,15 @@
+{
+    "name": "personal-website",
+    "version": "1.0.0",
+    "description": "Bootstrap Instagram API Portfolio express",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "author": "sky-monkey",
+    "license": "MIT",
+    "dependencies": {
+        "express": "^4.16.2"
+    }
+}
