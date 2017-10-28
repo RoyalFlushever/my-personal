@@ -2,6 +2,8 @@ body {
     color: #666;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 1.25rem;
+    /* make main tag are visible */
+    padding-top: 7rem; 
 }
 
 
@@ -10,16 +12,16 @@ body {
 #banner {
     border-color: #592059;
     background-color: #722872 !important;
-    height: 80px;
     box-shadow: 0px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    padding: 1rem;  /* change navbar height */
 }
 
-#navbar {
+#navbarlink {
     font-size: .82rem;
     font-weight: 700;
 }
 
-#navbar a {
+#navbarlink a {
     color: #aaa !important;
     border-radius: 5px;
     text-transform: uppercase;
@@ -29,7 +31,7 @@ body {
     padding: 10px 20px;
 }
 
-#navbar a:hover {
+#navbarlink a:hover {
     color: #eee !important;
     box-shadow: none;
 }
@@ -42,5 +44,4 @@ main {
     width: 100%;
     max-width: 68rem;
     margin: 0 auto;
-    padding: 0 2.5rem;
 }
