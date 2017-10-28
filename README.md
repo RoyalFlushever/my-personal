@@ -19,7 +19,7 @@ Development Approach: (Excerpt from 37signals.com) To be accurate, it is my grow
     1) Self-confident with software development
     2) Build your own TRIAL development approach even under pressure and heavy other job workloads - that means daily contribution
     3) Knowledge with Git 
-    4) Knowledge with Bootstrap 4,  
+    4) Knowledge with Bootstrap 4, Node, React
  2. Start quickly (but most hard part to find your appropriate starter kit)
  3. From Big to small
   Just Layout things(Basic functionality and Wireframes)
