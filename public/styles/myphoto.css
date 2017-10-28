@@ -7,16 +7,11 @@ body {
 
 /* header, navbar */
 
-header {
+#banner {
     border-color: #592059;
     background-color: #722872 !important;
     height: 80px;
     box-shadow: 0px 2px 2px 1px rgba(0, 0, 0, 0.2);
-}
-
-#banner {
-    border-color: #592059;
-    background-color: #722872 !important;
 }
 
 #navbar {
@@ -41,4 +36,11 @@ header {
 
 #navbar a.active {
     color: #555 !important;
+}
+
+main {
+    width: 100%;
+    max-width: 68rem;
+    margin: 0 auto;
+    padding: 0 2.5rem;
 }
