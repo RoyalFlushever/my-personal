@@ -13,7 +13,7 @@ body {
     border-color: #592059;
     background-color: #722872 !important;
     box-shadow: 0px 2px 2px 1px rgba(0, 0, 0, 0.2);
-    padding: 1rem;  /* change navbar height */
+    padding: .8rem;  /* change navbar height */
 }
 
 #navbarlink {
@@ -43,5 +43,12 @@ body {
 main {
     width: 100%;
     max-width: 68rem;
-    margin: 0 auto;
+    margin: 0 2.5rem;
 }
+
+/* About Me section */
+/* img.avatar{
+    width:290px;
+    height: 300px;
+} */
+
